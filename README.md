@@ -1,5 +1,8 @@
 ## Hi 👋 I'm Ayushmaan
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Ayushmaan286&show_icons=true&theme=tokyonight)
+![Kotlin](https://img.shields.io/badge/Kotlin-Android-blueviolet)
+![Android](https://img.shields.io/badge/Android-Developer-green)
+![GitHub](https://img.shields.io/badge/GitHub-Active-black)
+
 
 
 🎓 B.Tech CSE Student  
