@@ -1,6 +1,5 @@
 ## Hi 👋 I'm Ayushmaan
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ayushmaan286&show_icons=true)
-
+![Ayushmaan GitHub stats](https://github-readme-stats.vercel.app/api?username=Ayushmaan286&show_icons=true&theme=tokyonight)
 
 🎓 B.Tech CSE Student  
 📱 Android Developer (Kotlin)  
