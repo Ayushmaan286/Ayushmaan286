@@ -16,4 +16,6 @@
 - Data Structures & Algorithms
 
 ### 📫 Connect with me
-- LinkedIn: your-link
+- LinkedIn: www.linkedin.com/in/ayushmaan286
+
+
