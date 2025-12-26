@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hi 👋 I'm Ayushmaan
 
-<!--
-**Ayushmaan286/Ayushmaan286** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE Student  
+📱 Android Developer (Kotlin)  
+💻 Learning DSA & System Design  
+🏃 Athlete | Defence Aspirant  
 
-Here are some ideas to get you started:
+### 🛠 Tech Stack
+- Kotlin, Java
+- Android Studio
+- Git, GitHub
+- SQL (Basics)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📌 Current Focus
+- Android Development
+- Data Structures & Algorithms
+
+### 📫 Connect with me
+- LinkedIn: your-link
