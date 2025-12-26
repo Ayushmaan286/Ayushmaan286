@@ -13,7 +13,7 @@
 🎓 B.Tech CSE Student  
 📱 Android Developer (Kotlin)  
 💻 Learning DSA & System Design  
-🏃 Athlete | Defence Aspirant  
+
 
 ### 🛠 Tech Stack
 - Kotlin, Java
