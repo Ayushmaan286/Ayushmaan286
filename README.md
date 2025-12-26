@@ -1,5 +1,5 @@
 ## Hi 👋 I'm Ayushmaan
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ayushmaan286&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ayushmaan286&show_icons=true)
 
 
 🎓 B.Tech CSE Student  
