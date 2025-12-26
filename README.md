@@ -4,6 +4,11 @@
 ![GitHub](https://img.shields.io/badge/GitHub-Active-black)
 
 
+![GitHub Stats](https://github-readme-stats-five-iota-16.vercel.app/api?username=Ayushmaan286)
+
+
+
+
 
 🎓 B.Tech CSE Student  
 📱 Android Developer (Kotlin)  
