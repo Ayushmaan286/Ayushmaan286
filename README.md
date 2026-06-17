@@ -12,19 +12,24 @@
 
 🎓 B.Tech CSE Student  
 📱 Android Developer (Kotlin)  
-💻 Learning DSA & System Design  
+💻 Learning Java Backend  
 
 
 ### 🛠 Tech Stack
 - Kotlin, Java
 - Android Studio
-- Git, GitHub
-- SQL (Basics)
+- Java Backend 
+- Spring Boot
+- Maven
+- Git,GitHub
+- MySQL
 
 ### 📌 Current Focus
-- Android Development
+- Java Backend (Spring Boot)
 - Data Structures & Algorithms
 
 ### 📫 Connect with me
 - LinkedIn: www.linkedin.com/in/ayushmaan286
+- Portfolio: https://portfolio-ayush-draft.vercel.app/
+
 
